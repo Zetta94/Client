@@ -54,10 +54,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    
 6. **Puedes revisar la documentación de la API ingresando a la siguiente url** 
    ```bash
-   localhost:PORT/apidocs
-   
-   - **En esta dirección encontraras la documentación de los endpoints junto con los modelos diseñados
-   
+   localhost:PORT/apidocs 
    
 8. **Pruebas**
  
