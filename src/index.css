@@ -1,5 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-railway {
+  font-family: 'Railway', sans-serif;
+}
+
 body {
   margin: 0;
+  padding:0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,3 +20,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home{
+  font-family: 'Raleway', sans-serif;
+  min-height: 90vh;
+  background-image: linear-gradient(to bottom, #9f92db85, #f1f1f1), url('https://c4.wallpaperflare.com/wallpaper/621/859/641/peliculas-terror-wallpaper-preview.jpg');
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
