@@ -108,9 +108,9 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 <br>
 
-<div align="center">
-  <h1>¡Listo!</h1>
-  <h2>¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
-  <br>
+<div align="center" style="padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <h1 style="color: #4CAF50; font-family: Arial, sans-serif;">¡Listo!</h1>
+  <h2 style="color: #333; font-family: Arial, sans-serif;">¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
 </div>
+
    
