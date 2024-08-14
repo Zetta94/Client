@@ -1,4 +1,4 @@
-<em> # Prueba Técnica <em>
+# Prueba Técnica 
 
 ## Descripción
 
@@ -13,7 +13,23 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ## Deploy
 
+
+
+- ** El backend se encuentra en : https://api-prueba-tecnica.onrender.com/
+- ** El frontend se encuentra en : https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/
+
 ## Instalación y Ejecución
+
+## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+Side information: To use the application in a special environment use ```lorem ipsum``` to start
 
 ### Backend
 
