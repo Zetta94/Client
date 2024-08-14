@@ -4,7 +4,7 @@
 
 - [Descripción](#descripción)
   - [Funcionalidades](#funcionalidades)
-- [Deploy](#deploy)
+- [Alojamiento](#Alojamiento)
 - [Instalación y Ejecución](#instalación-y-ejecución)
   - [Backend](#backend)
   - [Frontend](#frontend)
@@ -20,7 +20,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 - **Paginación:** Implementada en el backend y en el frontend para manejar grandes volúmenes de datos.
 - **API de Datos:** Consumo de datos desde una API gratuita llamada `Themoviedb`y almacenamiento en MongoDB.
 
-## Deploy
+## Alojamiento
 
 | DESARROLLO | URL |
 | ------ | ------ |
