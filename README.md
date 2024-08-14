@@ -1,4 +1,4 @@
-# Prueba Técnica 
+<em> # Prueba Técnica <em>
 
 ## Descripción
 
@@ -11,6 +11,8 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 - **Paginación:** Implementada en el backend y en el frontend para manejar grandes volúmenes de datos.
 - **API de Datos:** Consumo de datos desde una API gratuita y almacenamiento en MongoDB.
 
+## Deploy
+
 ## Instalación y Ejecución
 
 ### Backend
@@ -18,7 +20,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 1. **Clona el repositorio**
 
    ```bash
-   git clone <URL-del-repositorio>
-   cd <nombre-del-repositorio>/backend
+   git clone (https://github.com/Zetta94/API-Prueba-Tecnica.git)
 
+2. **Instala las dependencias necesarias**
 ### Backend
