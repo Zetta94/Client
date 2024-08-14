@@ -16,9 +16,9 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 ### Funcionalidades
 
 - **CRUD Completo:** Permite crear, leer, actualizar y eliminar datos.
-- **Interfaz de Usuario:** Desarrollo con React,Typescript y tailwin proporcionando una experiencia de usuario interactiva.
+- **Interfaz de Usuario:** Desarrollo con React,Typescript y TailwindCSS proporcionando una experiencia de usuario interactiva.
 - **Paginación:** Implementada en el backend y en el frontend para manejar grandes volúmenes de datos.
-- **API de Datos:** Consumo de datos desde una API gratuita y almacenamiento en MongoDB.
+- **API de Datos:** Consumo de datos desde una API gratuita llamada `Themoviedb`y almacenamiento en MongoDB.
 
 ## Deploy
 
