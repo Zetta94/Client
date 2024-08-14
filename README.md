@@ -11,25 +11,12 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 - **Paginación:** Implementada en el backend y en el frontend para manejar grandes volúmenes de datos.
 - **API de Datos:** Consumo de datos desde una API gratuita y almacenamiento en MongoDB.
 
-## Deploy
+# Deploy
 
-
-
-- ** El backend se encuentra en : https://api-prueba-tecnica.onrender.com/
-- ** El frontend se encuentra en : https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/
+- ** Backend : https://api-prueba-tecnica.onrender.com/
+- ** Frontend : https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/
 
 ## Instalación y Ejecución
-
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 
 ### Backend
 
@@ -39,4 +26,29 @@ Side information: To use the application in a special environment use ```lorem i
    git clone (https://github.com/Zetta94/API-Prueba-Tecnica.git)
 
 2. **Instala las dependencias necesarias**
-### Backend
+   ```bash
+   npm install
+3. **Crea una cuenta en Themoviedb**
+   *** Crea una cuenta en https://developer.themoviedb.org/ para poder obtener un token y una key.***
+4. **Crea un archivo .env en la raíz del directorio y configura las siguientes variables de entorno**
+   ```bash
+   ##CONECTION
+   PORT=<puerto-para-ejecutar-backend>
+   MONGODB_URL=<tu-url-de-mongodb>
+   ##LOGIN
+   SECRET_KEY=<key-secreta>
+   ##API
+   API_URL= https://api.themoviedb.org/3
+   API_KEY= <api-key-brindada-por-https://api.themoviedb.org/3>
+   API_TOKEN= <token-brindado-por-https://api.themoviedb.org/3>
+5. **Inicia el servidor**
+   ```bash
+   npm run dev
+6. **Puedes revisar la documentación de la API ingresando a la siguiente url**
+   ```bash
+   localhost:PORT/apidocs
+   **En esta dirección encontraras la documentación de los endpoints junto con los modelos diseñados**
+7. **Pruebas**
+   **Puedes realizar pruebas utilizando Postman para comprobar el funcionamiento de los distintos endpoints**
+
+   
