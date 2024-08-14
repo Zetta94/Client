@@ -7,7 +7,7 @@
 - [Instalación y Ejecución](#instalación-y-ejecución)
   - [Backend](#backend)
   - [Frontend](#frontend)
-- [Frameworks, Plataformas y Librerias](#Frameworks,-Platforms-and-Libraries)
+- [Frameworks, Platforms and Libraries](#Frameworks,-Platforms-and-Libraries)
 - [Requerimientos](#Requerimientos)
   
 ## Descripción
@@ -130,7 +130,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-##Requerimientos
+## Requerimientos
 
 <div align="center">
   <h1> Requerimientos Backend  </h1>
