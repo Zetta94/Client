@@ -161,7 +161,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ### Interfaz de Usuario
 
-- **Desarrollo UI**: Se creó una interfaz **React** y **TailwindCSS**.
+- **Desarrollo UI**: Se creó una interfaz utilizando **React** y **TailwindCSS**.
 - **Componentes**: Se utilizan recursos como formularios, botones, inputs y otros componentes para lograr una UI usable y óptima.
 
 ### Consumo de la API Backend
