@@ -138,6 +138,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ### Entidades y CRUD
 
+- **Desarrollo**: Se desarrolló utilizando **NodeJS**, **Typescript**, **MONGODB** y **ExpressJS**
 - **Modelos**: Se implementaron dos modelos 'movies' y 'User'.
 - **Operaciones CRUD**: Se realiza un CRUD para cada uno de los modelos que involucra diversos endpoints.
 - **Almacenamiento**:  Se almacena en la base de datos de MONGODB la información resultado de la creación de nuevos elementos.
@@ -150,7 +151,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 ### Plus
 
 - **Autenticación**: Se implemento ` passport ` para manejar la autenticación de los usuarios.
-- **Seguridad**: Se utilizó ` crypto-js ` para manejar de forma segura las contraseñas de los usuarios.
+- **Seguridad**: Se utilizó ` crypto-js ` para manejar de forma segura las contraseñas de los usuarios, y se utilizó ` .env ` para proteger las variables de entorno.
 - **Documentación**: Se documentaron las rutas de la API utilizando ` Swagger `.
 - **Paginación**: Se implemento una paginación en la aplicación.
 - **Despliegue**: Se implemento el despliegue de la aplicación.
@@ -161,7 +162,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ### Interfaz de Usuario
 
-- **Desarrollo UI**: Se creó una interfaz utilizando **React** y **TailwindCSS**.
+- **Desarrollo**: Se creó una interfaz utilizando **React**, **TailwindCSS** y **Typescript**
 - **Componentes**: Se utilizan recursos como formularios, botones, inputs y otros componentes para lograr una UI usable y óptima.
 
 ### Consumo de la API Backend
