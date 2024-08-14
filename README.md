@@ -52,13 +52,13 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    ```bash
    npm run dev
    
-6. **Puedes revisar la documentación de la API ingresando a la siguiente url** 
+6. **Puedes revisar la documentación de la API ingresando en el siguiente endpoint (Reemplaza PORT por el puerto confirado en .env)** 
    ```bash
-   localhost:PORT/apidocs 
+   localhost:<PORT>/apidocs 
    
 8. **Pruebas**
  
-   **Puedes realizar pruebas utilizando Postman para comprobar el funcionamiento de los distintos endpoints**
+   **Puedes realizar pruebas utilizando <u>Postman</u> para comprobar el funcionamiento de los distintos endpoints**
     
 
    
