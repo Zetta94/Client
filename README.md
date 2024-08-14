@@ -8,7 +8,7 @@
   - [Backend](#backend)
   - [Frontend](#frontend)
 - [Frameworks, Plataformas y Librerias](#Frameworks,-Platforms-and-Libraries)
-- 
+- [Requerimientos realizados](#Requerimientos)
 ## Descripción
 
 Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando **React** para el frontend y **Express** con **MongoDB** para el backend. La aplicación permite realizar operaciones CRUD sobre una entidad principal, basada en datos consumidos desde una API gratuita y almacenados en MongoDB. 
@@ -128,3 +128,48 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+##Requerimientos
+
+<div align="center">
+  <h1> Requerimientos Backend  </h1>
+</div>
+
+### Entidades y CRUD
+
+- **Modelos**: Se implementaron dos modelos 'movies' y 'User'.
+- **Operaciones CRUD**: Se realiza un CRUD para cada uno de los modelos que involucra diversos endpoints.
+- **Almacenamiento**:  Se almacena en la base de datos de MONGODB la información resultado de la creación de nuevos elementos.
+
+### Consumo de API
+
+- **Servicio Backend**: Se realizó un servicio en el backend que consume datos de una API externa y los almacena en la base de datos de MongoDB.
+- **Sincronización**: Se permite la sincronización de datos desde la API externa a la base de datos.
+
+### Plus
+
+- **Seguridad**: Se utilizó `crypto-js` para manejar de forma segura las contraseñas de los usuarios.
+- **Documentación**: Se documentaron las rutas de la API utilizando Swagger.
+- **Paginación**: Se implemento una paginación en la aplicación.
+- **Despliegue**: Se implemento el despliegue de la aplicación.
+
+<div align="center">
+  <h1> Requerimientos Frontend  </h1>
+</div>
+
+### Interfaz de Usuario
+
+- **Desarrollo UI**: Se creó una interfaz **React** y **TailwindCSS**.
+- **Componentes**: Se utilizan recursos como formularios, botones, inputs y otros componentes para lograr una UI usable y óptima.
+
+### Consumo de la API Backend
+
+- **Integración CRUD**: Se consumen las rutas del backend para realizar operaciones CRUD desde el frontend.
+- **Visualización de Datos**: Se muestran los datos obtenidos desde la base de datos con la posibilidad de ver detalles de estos.
+
+### Plus
+
+- **Estilos**: Se utilizó **TailwindCSS** para el estilizado de la aplicación.
+- **Animaciones**: Se implemento al menos una animación utilizando CSS o una biblioteca de animaciones de React. En este caso se uso ` react-spring/web `
+- **Búsqueda y Filtrado**: Se añadió un sistema de búsqueda y filtrado para mejorar la navegación y accesibilidad de los datos.
+
