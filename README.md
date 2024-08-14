@@ -109,9 +109,10 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 <br>
 
 <div align="center">
-  <h1 style="color: #4CAF50;">🎉 ¡Listo! 🎉 </h1>
-  <h2>¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
+  <h1 style="color: #4CAF50; margin-bottom: 20px;">🎉 ¡Listo! 🎉</h1>
+  <h2 style="margin-top: 20px;">¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
 </div>
+
 
 
    
