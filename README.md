@@ -1,5 +1,14 @@
 # Prueba Técnica 
 
+## Tabla de Contenidos
+
+- [Descripción](#descripción)
+  - [Funcionalidades](#funcionalidades)
+- [Deploy](#deploy)
+- [Instalación y Ejecución](#instalación-y-ejecución)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+
 ## Descripción
 
 Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando **React** para el frontend y **Express** con **MongoDB** para el backend. La aplicación permite realizar operaciones CRUD sobre una entidad principal, basada en datos consumidos desde una API gratuita y almacenados en MongoDB. 
@@ -11,7 +20,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 - **Paginación:** Implementada en el backend y en el frontend para manejar grandes volúmenes de datos.
 - **API de Datos:** Consumo de datos desde una API gratuita y almacenamiento en MongoDB.
 
-# Deploy
+## Deploy
 
 - ** Backend : https://api-prueba-tecnica.onrender.com/
 - ** Frontend : https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/
@@ -60,5 +69,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
  
    **Puedes realizar pruebas utilizando <u>Postman</u> para comprobar el funcionamiento de los distintos endpoints**
     
+### Frontend
 
+1.****
    
