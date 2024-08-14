@@ -26,11 +26,16 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    git clone (https://github.com/Zetta94/API-Prueba-Tecnica.git)
 
 2. **Instala las dependencias necesarias**
+   
    ```bash
    npm install
+   
 3. **Crea una cuenta en Themoviedb**
-   *** Crea una cuenta en https://developer.themoviedb.org/ para poder obtener un token y una key.***
+    
+   *** Crea una cuenta en https://developer.themoviedb.org/ para poder obtener un token y una key. ***
+   
 4. **Crea un archivo .env en la raíz del directorio y configura las siguientes variables de entorno**
+   
    ```bash
    ##CONECTION
    PORT=<puerto-para-ejecutar-backend>
@@ -41,14 +46,21 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    API_URL= https://api.themoviedb.org/3
    API_KEY= <api-key-brindada-por-https://api.themoviedb.org/3>
    API_TOKEN= <token-brindado-por-https://api.themoviedb.org/3>
+   
 5. **Inicia el servidor**
+   
    ```bash
    npm run dev
+   
 6. **Puedes revisar la documentación de la API ingresando a la siguiente url**
+7. 
    ```bash
    localhost:PORT/apidocs
    **En esta dirección encontraras la documentación de los endpoints junto con los modelos diseñados**
-7. **Pruebas**
+   
+8. **Pruebas**
+ 
    **Puedes realizar pruebas utilizando Postman para comprobar el funcionamiento de los distintos endpoints**
+    
 
    
