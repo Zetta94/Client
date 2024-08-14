@@ -8,7 +8,8 @@
   - [Backend](#backend)
   - [Frontend](#frontend)
 - [Frameworks, Plataformas y Librerias](#Frameworks,-Platforms-and-Libraries)
-- [Requerimientos realizados](#Requerimientos)
+- [Requerimientos](#Requerimientos)
+  
 ## Descripción
 
 Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando **React** para el frontend y **Express** con **MongoDB** para el backend. La aplicación permite realizar operaciones CRUD sobre una entidad principal, basada en datos consumidos desde una API gratuita y almacenados en MongoDB. 
