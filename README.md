@@ -1,6 +1,4 @@
-# Prueba Técnica 
-
-## _API Movies_
+# _API Movies_ : Prueba Técnica 
 
 ## Tabla de Contenidos
 
