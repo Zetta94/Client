@@ -113,6 +113,12 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
   <h2>¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
 </div>
 
+## Utilidades
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Mongoose](https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
    
