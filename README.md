@@ -173,6 +173,6 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 ### Plus
 
 - **Estilos**: Se utilizó **TailwindCSS** para el estilizado de la aplicación.
-- **Animaciones**: Se implemento al menos una animación utilizando CSS o una biblioteca de animaciones de React. En este caso se uso ` react-spring/web `
+- **Animaciones**: Se implemento al menos una animación utilizando CSS o una biblioteca de animaciones de React. En este caso se usó ` react-spring/web `
 - **Búsqueda y Filtrado**: Se añadió un sistema de búsqueda y filtrado para mejorar la navegación y accesibilidad de los datos.
 
