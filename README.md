@@ -32,7 +32,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    
 3. **Crea una cuenta en Themoviedb**
     
-   *** Crea una cuenta en https://developer.themoviedb.org/ para poder obtener un token y una key. ***
+    
    
 4. **Crea un archivo .env en la raíz del directorio y configura las siguientes variables de entorno**
    
@@ -52,11 +52,12 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    ```bash
    npm run dev
    
-6. **Puedes revisar la documentación de la API ingresando a la siguiente url**
-7. 
+6. **Puedes revisar la documentación de la API ingresando a la siguiente url** 
    ```bash
    localhost:PORT/apidocs
-   **En esta dirección encontraras la documentación de los endpoints junto con los modelos diseñados**
+   
+   - **En esta dirección encontraras la documentación de los endpoints junto con los modelos diseñados
+   
    
 8. **Pruebas**
  
