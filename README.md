@@ -1,5 +1,7 @@
 # Prueba Técnica 
 
+## _API Movies_
+
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
@@ -22,17 +24,24 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ## Deploy
 
-- ** Backend : https://api-prueba-tecnica.onrender.com/
-- ** Frontend : https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/
+| DESARROLLO | URL |
+| ------ | ------ |
+| Backend | [https://api-prueba-tecnica.onrender.com/][PlDb] |
+| Frontend | [https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/][PlGh] |
 
 ## Instalación y Ejecución
+
+<blockquote>
+<strong>Nota:</strong> Solo ejecuta los siguientes pasos si quieres ejecutar el proyecto de forma local
+</blockquote>
 
 ### Backend
 
 1. **Clona el repositorio**
 
-   ```bash
-   git clone (https://github.com/Zetta94/API-Prueba-Tecnica.git)
+   ```sh
+   git init
+   git clone https://github.com/Zetta94/API-Prueba-Tecnica.git
 
 2. **Instala las dependencias necesarias**
    
@@ -41,11 +50,11 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    
 3. **Crea una cuenta en Themoviedb**
     
-    
+    - ** Ingresa a https://developer.themoviedb.org/ y genera tu usuario para obtener una key y un token.
    
 4. **Crea un archivo .env en la raíz del directorio y configura las siguientes variables de entorno**
    
-   ```bash
+   ```sh
    ##CONECTION
    PORT=<puerto-para-ejecutar-backend>
    MONGODB_URL=<tu-url-de-mongodb>
@@ -71,5 +80,19 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
     
 ### Frontend
 
-1.****
+1.**Clona el repositorio**
+  ```sh
+   git init
+   git clone https://github.com/Zetta94/Client-Prueba-Tecnica.git 
+    
+2.**Instala las dependencias necesarias para poder ejecutar el proyecto
+
+   ```bash
+   npm install
+
+3. **Inicia la aplicación**
+
+- ** Por defecto va a iniciar en localhost:3000
+
+4.
    
