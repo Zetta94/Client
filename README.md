@@ -111,5 +111,6 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 <div align="center">
   <h1>¡Listo!</h1>
   <h2>¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
+  <br>
 </div>
    
