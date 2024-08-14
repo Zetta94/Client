@@ -149,8 +149,9 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 ### Plus
 
-- **Seguridad**: Se utilizó `crypto-js` para manejar de forma segura las contraseñas de los usuarios.
-- **Documentación**: Se documentaron las rutas de la API utilizando Swagger.
+- **Autenticación**: Se implemento ` passport ` para manejar la autenticación de los usuarios.
+- **Seguridad**: Se utilizó ` crypto-js ` para manejar de forma segura las contraseñas de los usuarios.
+- **Documentación**: Se documentaron las rutas de la API utilizando ` Swagger `.
 - **Paginación**: Se implemento una paginación en la aplicación.
 - **Despliegue**: Se implemento el despliegue de la aplicación.
 
