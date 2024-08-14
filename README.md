@@ -26,8 +26,8 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 
 | DESARROLLO | URL |
 | ------ | ------ |
-| Backend | [https://api-prueba-tecnica.onrender.com/][PlDb] |
-| Frontend | [https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app/][PlGh] |
+| Backend | https://api-prueba-tecnica.onrender.com |
+| Frontend | https://client-prueba-tecnica-579mfy2vj-manuels-projects-5a3093b2.vercel.app |
 
 ## Instalación y Ejecución
 
@@ -42,15 +42,17 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    ```sh
    git init
    git clone https://github.com/Zetta94/API-Prueba-Tecnica.git
+   ```
 
 2. **Instala las dependencias necesarias**
    
    ```bash
    npm install
+   ```
    
 3. **Crea una cuenta en Themoviedb**
     
-    - ** Ingresa a https://developer.themoviedb.org/ y genera tu usuario para obtener una key y un token.
+    -  Ingresa a https://developer.themoviedb.org/ y genera tu usuario para obtener una key y un token.
    
 4. **Crea un archivo .env en la raíz del directorio y configura las siguientes variables de entorno**
    
@@ -64,15 +66,18 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
    API_URL= https://api.themoviedb.org/3
    API_KEY= <api-key-brindada-por-https://api.themoviedb.org/3>
    API_TOKEN= <token-brindado-por-https://api.themoviedb.org/3>
+   ```
    
 5. **Inicia el servidor**
    
    ```bash
    npm run dev
+   ```
    
 6. **Puedes revisar la documentación de la API ingresando en el siguiente endpoint (Reemplaza PORT por el puerto confirado en .env)** 
    ```bash
-   localhost:<PORT>/apidocs 
+   localhost:<PORT>/apidocs
+   ```
    
 8. **Pruebas**
  
@@ -83,16 +88,26 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 1.**Clona el repositorio**
   ```sh
    git init
-   git clone https://github.com/Zetta94/Client-Prueba-Tecnica.git 
+   git clone https://github.com/Zetta94/Client-Prueba-Tecnica.git
+  ``` 
     
 2.**Instala las dependencias necesarias para poder ejecutar el proyecto
 
    ```bash
    npm install
+  ```
 
 3. **Inicia la aplicación**
+   
+    ```bash
+   npm start
+    ```
+<blockquote>
+<strong>Nota:</strong> _Por defecto va a iniciar en localhost:3000_
+</blockquote>
 
-- ** Por defecto va a iniciar en localhost:3000
-
-4.
+<div align="center">
+  <h1>¡Listo!</h1>
+  <h2>Ya puedes navegar por la web y comprobar sus funcionalidades</h2>
+</div>
    
