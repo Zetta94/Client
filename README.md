@@ -7,7 +7,7 @@
 - [Instalación y Ejecución](#instalación-y-ejecución)
   - [Backend](#backend)
   - [Frontend](#frontend)
-- [Frameworks, Platforms and Libraries](#Frameworks,-Platforms-and-Libraries)
+- [Tecnologías](#Tecnologías)
 - [Requerimientos](#Requerimientos)
   
 ## Descripción
@@ -111,7 +111,7 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
   <h2>¡Ya puedes navegar por la web y comprobar sus funcionalidades!</h2>
 </div>
 
-## Frameworks, Platforms and Libraries
+## Tecnologías
 
 - * Se utilizaron diversas tecnologias, plataformas y librerias, entre las que destacan las siguientes:
 
