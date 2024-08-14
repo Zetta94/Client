@@ -3,12 +3,12 @@
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
-  - [Funcionalidades](#funcionalidades)
 - [Alojamiento](#Alojamiento)
 - [Instalación y Ejecución](#instalación-y-ejecución)
   - [Backend](#backend)
   - [Frontend](#frontend)
-
+- [Frameworks, Plataformas y Librerias](#Frameworks,-Platforms-and-Libraries)
+- 
 ## Descripción
 
 Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando **React** para el frontend y **Express** con **MongoDB** para el backend. La aplicación permite realizar operaciones CRUD sobre una entidad principal, basada en datos consumidos desde una API gratuita y almacenados en MongoDB. 
@@ -85,18 +85,15 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
     
 ### Frontend
 
-1.**Clona el repositorio**
+1. **Clona el repositorio**
   ```sh
    git init
    git clone https://github.com/Zetta94/Client-Prueba-Tecnica.git
-  ``` 
-    
-2.**Instala las dependencias necesarias para poder ejecutar el proyecto
-
+  ```  
+2. **Instala las dependencias necesarias para poder ejecutar el proyecto**
    ```bash
    npm install
-  ```
-
+   
 3. **Inicia la aplicación**
    
     ```bash
@@ -114,6 +111,8 @@ Este proyecto es una aplicación web desarrollada en **TypeScript** utilizando *
 </div>
 
 ## Frameworks, Platforms and Libraries
+
+- * Se utilizaron diversas tecnologias, plataformas y librerias, entre las que destacan las siguientes:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
